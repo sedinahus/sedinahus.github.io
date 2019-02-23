@@ -11,7 +11,7 @@
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/img/providence-doucet-81314-unsplash.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/providence-doucet-81314-unsplash.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
